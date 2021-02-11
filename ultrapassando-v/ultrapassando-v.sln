@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ultrapassando-v", "ultrapassando-v\ultrapassando-v.csproj", "{B066E797-FAF9-4A61-A98E-7CA26169ED60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B066E797-FAF9-4A61-A98E-7CA26169ED60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B066E797-FAF9-4A61-A98E-7CA26169ED60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B066E797-FAF9-4A61-A98E-7CA26169ED60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B066E797-FAF9-4A61-A98E-7CA26169ED60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCC69475-0B74-4732-B463-3684A0D56C4A}
+	EndGlobalSection
+EndGlobal
